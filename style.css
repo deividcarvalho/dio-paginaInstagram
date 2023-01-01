@@ -70,7 +70,7 @@ width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 80%;
     overflow: hidden;
 }
 
